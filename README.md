@@ -1,6 +1,4 @@
-Here’s the complete **README.md** with everything included, from installation to license, formatted for direct copy-pasting:
 
-```markdown
 # **Real-Time Collaborative Whiteboard**
 
 A web-based whiteboard application that allows multiple users to draw, collaborate, and see each other’s changes in real time. The application features real-time synchronization, undo/redo functionality, and the ability to export drawings as an image.
